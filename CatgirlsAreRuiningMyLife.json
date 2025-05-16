@@ -1,0 +1,46 @@
+{
+  "majorVersion": 3,
+  "minorVersion": 3,
+  "patchVersion": 3,
+  "isDefaultConfig": false,
+  "displayMode": "format",
+  "doIntermediateUpdates": true,
+  "judgments": [
+    {
+      "threshold": 115,
+      "text": "<size=200%>Nyaaa~</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 113,
+      "text": "<size=150%>Meow~</size>",
+      "color": [1, 0.3, 0.8, 1],
+      "fade": false
+    },
+    {
+      "threshold": 110,
+      "text": "<size=130%>UwU</size>",
+      "color": [1, 0.3, 0.4, 1],
+      "fade": false
+    },
+    {
+      "threshold": 106,
+      "text": "<size=100%>:3</size>",
+      "color": [1, 1, 0.4, 1],
+      "fade": false
+    },
+    {
+      "threshold": 100,
+      "text": "<size=100%>Bad</size>",
+      "color": [1, 0.6, 0, 0.5],
+      "fade": false
+    },
+    {
+      "threshold": 0,
+      "text": "<size=100%>AWFUL</size>",
+      "color": [1, 0.1, 0, 0],
+      "fade": false
+    }
+  ]
+}
