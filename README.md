@@ -5,6 +5,10 @@ Beat Saber HitScore Visualizer Configs Library
 
 All visualizer previews made at: https://hsv-preview.netlify.app
 
+Requires:
+HitScoreVisualizer for PC: https://github.com/ErisApps/HitScoreVisualizer
+HitScoreVisualizer for Quest: https://github.com/christopherweinhardt/HitScoreVisualizer/tree/master
+
 **IF YOU WANT YOUR HITSCORE VISUALIZER ON THIS REPOSITORY DM @eclipstral ON DISCORD**
 
 ---
