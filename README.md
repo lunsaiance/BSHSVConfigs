@@ -5,7 +5,7 @@ Public Beat Saber HitScore Visualizer Configs
 
 All visualizer previews made at: https://hsv-preview.netlify.app
 
-All visualizers made by CeriesVR/Eclipstral
+All visualizers made by CeriesVR (me)
 
 **IF YOU WANT YOUR HITSCORE VISUALIZER ON THIS REPOSITORY DM @eclipstral ON DISCORD**
 
