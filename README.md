@@ -1,7 +1,7 @@
 
 ---
 
-Public Beat Saber HitScore Visualizer Configs
+Beat Saber HitScore Visualizer Configs
 
 All visualizer previews made at: https://hsv-preview.netlify.app
 
