@@ -23,4 +23,22 @@ Questions & Awnsers
 
 **A: Almost every 1-2 weeks**
 
+-
+
+**Q: How do I install Hitscore Visualizers to my game?**
+
+**A:**
+
+**Install HitScoreVisualizer**
+
+**HitScoreVisualizer for PC: https://github.com/ErisApps/HitScoreVisualizer**
+
+**HitScoreVisualizer for Quest: https://github.com/christopherweinhardt/HitScoreVisualizer/tree/master**
+
+**After installing, run the game and close it**
+
+**For Quest open SideQuest on your PC and nagivate to /sdcard/ModData/com.beatgames.beatsaber/Mods/HitScoreVisualizer to upload your .json file to the HSV mod**
+
+**For PC go to C:\Program Files (x86)\Steam\steamapps\common\Beat Saber\Beat Saber_data\Managed**
+
 ---
