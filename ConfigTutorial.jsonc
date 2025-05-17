@@ -1,0 +1,162 @@
+
+// hey hello hi, welcome to this super simple lil tutorial! im gonna show ya how to get this thing up n running! X3
+// (psst... i left some extra notes down below for ya!)
+
+// all the big important info lives over at: https://github.com/ErisApps/HitScoreVisualizer
+
+// the THRESHOLD is the score you get when u hit the note! (e.g. 115, 113, 110... all that jazz)
+
+// the TEXT is self explanatory. it lets u add text inside the “alligator mouths” (< >)!
+// theres a lil %s in there, u can totally delete it and replace it with anything you like! emojis, text, go wild!
+// e.g. <size=110%>EXAMPLE</size>
+
+// SIZE allows u to scale ur hitscores to whatever size u want
+// i wouldnt go above 210% and no less than 100%
+// Default Size = <size=110%>%s</size>      Scaled = <size=210%>%s</size>
+
+// COLOR does exactly what it sounds like, it colors the numbers that pop up when u hit a note!
+// 1 = full color      0.5 = half color      0 = no color
+// u can also do in betweens of these (e.g. 0.21, 0.12, 0.82) u CANNOT go above 1
+// color is in RGBA format (A being Alpha / the bloom of the HSV) refer back to line 20
+// we all know RGB but for the people who dont know... R = Red | B = Blue | G = Green
+// when making colors u like, think of as if u were painting, red and blue make purple and blue and green make yellow
+
+// FADE: info on this can be found at https://github.com/ErisApps/HitScoreVisualizer cuz i dont really know what it does
+// just know it could make old versions go boom
+
+// to preview ur work u can go to https://hsv-preview.netlify.app and load ur config.
+// or make ur own in the site
+
+// need anything? my discord is @eclipstral
+
+//----------------------------------------------------EXECUTE :3 EXCUTE :3 BONK THEIR HEAD 1000 TIMES X3----------------------------------------------
+
+
+{
+  "majorVersion": 3, // no touchy unless it needs a lil update, okay?
+  "minorVersion": 3, // no touchy unless it needs a lil update, okay?
+  "patchVersion": 3, // no touchy unless it needs a lil update, okay?
+  "isDefaultConfig": false,   // leave this lil guy on false unless theres a super good reason
+  "displayMode": "format", // no touchy
+  "doIntermediateUpdates": true, // leave this be pls
+  "judgments": [
+    {
+      "threshold": 115,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 113,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 110,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 106,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 100,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 0,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    }
+  ],
+
+     // CHAINS
+     // not much new here—mostly the same notes as before
+
+  "chainHeadJudgments": [
+    {
+      "threshold": 115,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 113,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 110,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 106,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 100,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 86,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 85,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 83,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 80,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 76,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 70,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    },
+    {
+      "threshold": 0,
+      "text": "<size=110%>%s</size>",
+      "color": [1, 1, 1, 1],
+      "fade": false
+    }
+  ],
+  "chainLinkDisplay": {
+    "text": "%s",  // looks good as is! no need to tweak 
+    "color": [1, 1, 1, 1]
+  }
+}
