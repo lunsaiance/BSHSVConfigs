@@ -9,7 +9,7 @@ HitScoreVisualizer for PC: https://github.com/ErisApps/HitScoreVisualizer
 
 HitScoreVisualizer for Quest: https://github.com/christopherweinhardt/HitScoreVisualizer/tree/master
 
-More info about this repository here: https://github.com/lunsaiance/BSHSVConfigs/blob/big-boy/QA.md
+More info about this repository here: https://github.com/lunsaiance/BSHSVConfigs/blob/big-boy/More%20Info.md
 
 **IF YOU WANT YOUR HITSCORE VISUALIZER ON THIS REPOSITORY DM @eclipstral ON DISCORD**
 
