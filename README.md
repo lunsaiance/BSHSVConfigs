@@ -11,6 +11,8 @@ HitScoreVisualizer for Quest: https://github.com/christopherweinhardt/HitScoreVi
 
 More info about this repository here: https://github.com/lunsaiance/BSHSVConfigs/blob/big-boy/More%20Info.md
 
+Want to know when theres new configs? Join my discord: https://discord.gg/B8qQ32E9tH
+
 **IF YOU WANT YOUR HITSCORE VISUALIZER ON THIS REPOSITORY DM @eclipstral ON DISCORD**
 
 ---
